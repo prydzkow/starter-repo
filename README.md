@@ -6,3 +6,6 @@ Hello user.
 
 ### Copyrights
 Copyright by Pawel Rydzkowski
+
+# First Section
+Read this file through
